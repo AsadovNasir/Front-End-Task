@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.packet-contanier {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.packet-contanier .title {
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.packet-contanier .title p {
+  padding: 20px;
+  font-size: 20px;
+}
+.packet-contanier .title h1 {
+  font-size: 50px;
+}
+.packet-contanier .packets {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.packet-contanier .packets .packet {
+  width: 500px;
+  height: 370px;
+  margin-top: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  flex-wrap: wrap;
+  border: 0 solid #0008ff;
+  transition: 1s;
+}
+.packet-contanier .packets .packet h2 {
+  display: inline-block;
+  margin: 15px 0 0 20px;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.packet-contanier .packets .packet .creat-art {
+  color: #F27E42;
+  background: rgba(242, 126, 66, 0.26);
+}
+.packet-contanier .packets .packet .fin-acc {
+  color: #4294F2;
+  background: rgba(66, 148, 255, 0.26);
+}
+.packet-contanier .packets .packet .medical {
+  color: #42f2a6;
+  background: rgba(66, 255, 145, 0.26);
+}
+.packet-contanier .packets .packet .corporate {
+  color: #9d42f2;
+  background: rgba(66, 72, 255, 0.26);
+}
+.packet-contanier .packets .packet .marketing {
+  color: #cf42f2;
+  background: rgba(198, 66, 255, 0.26);
+}
+.packet-contanier .packets .packet .program {
+  color: #4262f2;
+  background: rgba(66, 72, 255, 0.26);
+}
+.packet-contanier .packets .packet h3 {
+  margin: 40px 0 0 18px;
+  font-size: 30px;
+}
+.packet-contanier .packets .packet .loc {
+  display: flex;
+}
+.packet-contanier .packets .packet .loc h6 {
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.packet-contanier .packets .packet .time-job {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 45px;
+  margin-left: 10px;
+  margin-right: 18px;
+}
+.packet-contanier .packets .packet .time-job .logo {
+  display: flex;
+  align-items: center;
+}
+.packet-contanier .packets .packet .time-job .logo img {
+  width: 4rem;
+}
+.packet-contanier .packets .packet .time-job .logo h5 {
+  font-size: 23px;
+}
+.packet-contanier .packets .packet .time-job .job {
+  display: flex;
+  align-items: center;
+}
+.packet-contanier .packets .packet .time-job .job h5 {
+  font-size: 18px;
+  color: #9a9a9a;
+  font-weight: 220;
+}
+.packet-contanier .packet:hover {
+  border: 1px #0008ff solid;
+}
+.packet-contanier .button {
+  padding: 30px;
+  font-size: 20px;
+}
+.packet-contanier .button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+  padding: 20px 50px 20px 50px;
+  background: rgb(0, 72, 255) 0;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 28px;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.about .left-side h1 {
+  font-size: 3rem;
+}
+.about .left-side p {
+  margin-top: 30px;
+  font-size: 20px;
+  color: #9a9a9a;
+  max-width: 655px;
+}
+.about .left-side .slogans {
+  margin-top: 20px;
+}
+.about .left-side .slogans .slogan {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+}
+.about .left-side .slogans .slogan p {
+  max-width: 400px;
+  font-size: 23px;
+}
+.about .left-side .slogans .slogan img {
+  margin-right: 18px;
+}/*# sourceMappingURL=style.css.map */
