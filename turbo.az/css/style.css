@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.carshop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carshop .select,
+.carshop #carSelect {
+  padding: 25px 18px 25px 18px;
+  font-size: 25px;
+}
+.carshop .select {
+  display: none;
+}
+
+.audi-models,
+.bmw-models {
+  display: none;
+  flex-wrap: wrap;
+}
+.audi-models img,
+.bmw-models img {
+  width: 30rem;
+}/*# sourceMappingURL=style.css.map */
