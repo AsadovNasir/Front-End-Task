@@ -1,0 +1,31 @@
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.exe
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.deps.json
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.runtimeconfig.json
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.dll
+C:\Users\Admin\source\repos\Blog task\Blog task\bin\Debug\net7.0\Blog task.pdb
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets\msbuild.Blog task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets\msbuild.build.Blog task.props
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blog task.props
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blog task.props
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\scopedcss\bundle\Blog task.styles.css
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\scopedcss\projectbundle\Blog task.bundle.scp.css
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.dll
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\refint\Blog task.dll
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.pdb
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\Blog task.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Blog task\Blog task\obj\Debug\net7.0\ref\Blog task.dll
